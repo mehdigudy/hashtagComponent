@@ -45,6 +45,7 @@ body {
   cursor: pointer;
 }
 .tag_container input {
+  flex-grow: 1;
   border: none;
   background-color: transparent;
   outline: none;
@@ -53,3 +54,4 @@ body {
   padding: 0.2em;
   margin-left: 0.2em;
 }
+
