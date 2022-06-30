@@ -81,7 +81,7 @@ console.log(input);
 
 input.addEventListener('keyup', (e) => {
 
-    if (e.keyCode === 13 & input.value !== '') {
+    if (e.keyCode === 13 | e.keyCode ==32) {
 
 
 
